@@ -1,0 +1,9 @@
+1612788383090	geckodriver	INFO	Listening on 127.0.0.1:41575
+1612788384092	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekN1EpH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612788387318	Marionette	INFO	Listening on port 35913
+1612788387388	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612788387438	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1612788389272	Marionette	INFO	Stopped listening on port 35913
